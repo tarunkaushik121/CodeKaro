@@ -4,12 +4,15 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+        <option value="$PROJECT_DIR$/../../springai/openai-demo/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$USER_HOME$/Downloads/springboot-aws-ec2-s3-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../../aws/aws/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
